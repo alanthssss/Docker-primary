@@ -20,4 +20,4 @@
 |`docker history`<br>查看本地一个镜像的历史(历史分层)信息<br>`docker history [OPTIONS] IMAGE`|`-H, --human		将创建时间、大小进行优化打印(默认为true)` <br>`-q, --quiet           	只显示镜像ID` <br>`--no-trunc        	不缩略显示`|
 
 ## 总结
-![](/assets/image.png)
+
