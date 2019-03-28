@@ -9,7 +9,7 @@
 
 |command|option|
 |-|-|
-|`docker search`||
+|`docker search`<br>搜索Docker Hub(镜像仓库)上的镜像<br>`docker search [OPTIONS] TERM`|`-f,  --filter filter   	根据提供的格式筛选结果`<br>`--format string   	利用Go语言的format格式化输出结果`<br>`--limit int       	展示最大的结果数，默认25个`<br>`--no-trunc        	内容全部显示`<br>|
 |`docker images/docker image ls`||
 |`docker pull`||
 |`docker rmi/docker image rm`||
