@@ -5,18 +5,25 @@
 - 通过镜像可以创建一个或多个容器。
 
 ## 管理
-### docker search
-### docker images/docker image ls
-### docker pull
-### docker rmi/docker image rm
-### docker save
-### docker load
-### docker tag
-- docker inspect/docker image inspect
 
-|1|2|
+
+|command|option|
 |-|-|
-- docker history
+|docker search
+|docker images/docker image ls
+|docker pull
+|docker rmi/docker image rm
+|docker save
+|docker load
+|docker tag
+|docker inspect/docker image inspect
+|docker history
+
+
+
+
+
+
 
 
 
