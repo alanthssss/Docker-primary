@@ -1,7 +1,2 @@
-# README
----
-* [CONTENT](SUMMARY.md)
-
-
-
+# Initial page
 
