@@ -40,5 +40,10 @@
     * [带认证私有仓库](chapter6/61/611.md)
   * [总结](chapter6/62.md)
 * [Dockerfile](chapter7.md)
+  * [Dockerfile 简介](chapter8/8.md)
+  * [Dockerfile 示例与使用](chapter8/8.md)
+  * [Dockerfile 特征](chapter8/8.md)
+  * [Dockerfile 命令概述](chapter8/8.md)
+  * [总结](chapter8/8.md)
 * [Docker-compose](chapter8.md)
 
