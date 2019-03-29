@@ -49,4 +49,7 @@
   * [Docker Compose 简介](chapter8/80.md)
   * [了解 Docker Compose File](chapter8/81.md)
   * [Docker Compose 应用](chapter8/82.md)
+    * [案例一.小型web服务项目搭建](chapter8/82/820.md)
+    * [案例二.单机环境ELK系统搭建](chapter8/82/821.md)
+    * [案例三.多主机环境ELK系统搭建](chapter8/82/823.md)
   * [总结](chapter8/83.md)
