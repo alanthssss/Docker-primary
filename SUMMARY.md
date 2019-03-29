@@ -46,4 +46,7 @@
   * [Dockerfile 命令概述](chapter7/73.md)
   * [总结](chapter7/74.md)
 * [Docker-compose](chapter8.md)
-
+  * [Docker Compose 简介](chapter8/8.md)
+  * [了解 Docker Compose File](chapter8/8.md)
+  * [Docker Compose 应用](chapter8/8.md)
+  * [总结](chapter8/8.md)
