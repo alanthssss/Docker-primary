@@ -32,7 +32,7 @@
   * [Docker 数据卷简介](chapter5/50.md)
   * [Docker 数据卷管理](chapter5/51.md)
   * [Docker 数据卷注意事项](chapter5/52.md)
-* [总结] (chapter5/5.md)
+  * [总结](chapter5/5.md)
 * [仓库](chapter6.md)
 * [Dockerfile](chapter7.md)
 * [Docker-compose](chapter8.md)
