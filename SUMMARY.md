@@ -36,6 +36,8 @@
 * [仓库](chapter6.md)
   * [Docker 仓库简介](chapter6/60.md)
   * [Docker 私有仓库搭建](chapter6/61.md)
+    * [无认证私有仓库](chapter6/61/61.md)
+    * [带认证私有仓库](chapter6/61/61.md)
   * [总结](chapter6/62.md)
 * [Dockerfile](chapter7.md)
 * [Docker-compose](chapter8.md)
