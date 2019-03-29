@@ -34,9 +34,9 @@
   * [Docker 数据卷注意事项](chapter5/52.md)
   * [总结](chapter5/5.md)
 * [仓库](chapter6.md)
-  * [Docker 仓库简介](chapter6/6.md)
-  * [Docker 私有仓库搭建](chapter6/6.md)
-  * [总结](chapter6/6.md)
+  * [Docker 仓库简介](chapter6/60.md)
+  * [Docker 私有仓库搭建](chapter6/61.md)
+  * [总结](chapter6/62.md)
 * [Dockerfile](chapter7.md)
 * [Docker-compose](chapter8.md)
 
