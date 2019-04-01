@@ -2,6 +2,9 @@
 
 * [概览](README.md)
 * [版本与安装](chapter0.md)
+  * [版本](chapter0/00.md)
+  * [安装](chapter0/01.md)
+  * [加速器](chapter0/02.md)
 * [镜像](chapter1.md)
   * [镜像简介](chapter1/10.md)
   * [镜像管理](chapter1/11.md)
